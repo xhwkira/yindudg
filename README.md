@@ -1,14 +1,14 @@
 <div align="center">
-<h1>vdoing-template</h1>
+<h1>yindudg</h1>
 
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/vdoing-template)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/vdoing-template.svg)](https://github.com/eryajf/vdoing-template/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/stargazers)
-[![GitHub license](https://img.shields.io/github/license/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/blob/main/LICENSE)
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/vdoing-template.svg)](https://github.com/eryajf/vdoing-template)
-[![website eryajf.github.io/vdoing-template](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/vdoing-template.svg)](https://eryajf.github.io/vdoing-template/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/yindudg)
+[![GitHub Issues](https://img.shields.io/github/issues/eryajf/yindudg.svg)](https://github.com/eryajf/yindudg/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/yindudg)](https://github.com/eryajf/yindudg/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/yindudg)](https://github.com/eryajf/yindudg/stargazers)
+[![GitHub license](https://img.shields.io/github/license/eryajf/yindudg)](https://github.com/eryajf/yindudg/blob/main/LICENSE)
+[![HitCount](https://views.whatilearened.today/views/github/eryajf/yindudg.svg)](https://github.com/eryajf/yindudg)
+[![website eryajf.github.io/yindudg](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/yindudg.svg)](https://eryajf.github.io/yindudg/)
 
 <p align="center"> 📖 Vdoing博客主题静态部署模板 📖</p>
 
@@ -40,7 +40,7 @@
 
 ## 初始配置
 
-首先访问模板仓库：[vdoing-template](https://github.com/eryajf/vdoing-template)。点击此仓库右侧的 `Use this template`
+首先访问模板仓库：[yindudg](https://github.com/eryajf/yindudg)。点击此仓库右侧的 `Use this template`
 
 ![image_20220721_153908](https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220721_153908.png)
 
