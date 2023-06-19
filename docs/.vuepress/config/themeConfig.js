@@ -40,8 +40,7 @@ module.exports = {
   },
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
-    name: '二丫讲梵', // 必需
-    link: 'https://github.com/eryajf', // 可选的
+    name: 'xhwkira', // 必需
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
