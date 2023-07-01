@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: (https://pic6.58cdn.com.cn/nowater/webim/big/n_v272aabeb77a9b4a1e89bea32ddec819cf.jpg)
+heroImage: https://gitee.com/xhwkira/img/raw/master/img/4cf6fdcb5acd2a8b0d71c91ee6960817.jpeg
 tagline: 重振雄风，3级硬度+30分钟以上的战斗延时
 heroText: 印度甘罗贝代购
 actionText: 开始探索 →
