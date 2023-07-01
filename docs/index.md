@@ -1,9 +1,9 @@
 ---
 home: true
-heroImage: https://github.com/xhwkira/desktop-tutorial/blob/main/29b8bbf8ec27e382303056ab5d59fecd.jpeg?raw=true
+heroImage: (https://pic6.58cdn.com.cn/nowater/webim/big/n_v272aabeb77a9b4a1e89bea32ddec819cf.jpg)
 tagline: 重振雄风，3级硬度+30分钟以上的战斗延时
 heroText: 印度甘罗贝代购
-actionText: 产品简介 →
+actionText: 开始探索 →
 actionLink: /pages/24768e/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
