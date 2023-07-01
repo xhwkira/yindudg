@@ -1,13 +1,7 @@
 ---
 home: true
-<<<<<<< HEAD
-heroImage: 
-tagline: 重振雄风，3级硬度+30分钟以上的战斗延时
-现货包邮，有海关凭证；加微信xhwkira询价
-=======
-heroImage: https://gitee.com/xhwkira/img/raw/master/img/%E5%A4%9A%E4%BA%BA%E4%BA%8C%E7%BB%B4%E7%A0%81.png
-tagline: 重振雄风，3级硬度+30分钟以上的战斗延时；现货包邮，有海关凭证；加微信xhwkira询价
->>>>>>> parent of c886dcd (t7)
+heroImage:  (https://gitee.com/xhwkira/img/raw/master/img/%E5%A4%9A%E4%BA%BA%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+tagline:  重振雄风，3级硬度+30分钟以上的战斗延时；现货包邮，有海关凭证；加微信xhwkira询价
 heroText: 印度甘罗贝代购
 actionText: 开始探索 →
 actionLink: /pages/24768e/
