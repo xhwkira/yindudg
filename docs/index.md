@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage:
+heroImage: 
 tagline: 重振雄风，3级硬度+30分钟以上的战斗延时
 现货包邮，有海关凭证；加微信xhwkira询价
 heroText: 印度甘罗贝代购
